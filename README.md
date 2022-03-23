@@ -1,1 +1,1 @@
-# clase-2-infografia-digital
+# clase-3-infografia-digital
